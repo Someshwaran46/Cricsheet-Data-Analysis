@@ -17,3 +17,15 @@ Automates Cricsheet JSON scraping using Selenium, structures data in MySQL with 
 - **`odis.py`** – Processes ODI JSON data and inserts it into the `odis` table.  
 - **`t20s.py`** – Processes T20 JSON data and inserts it into the `t20s` table.  
 - **`tests.py`** – Processes Test match JSON data and inserts it into the `tests` table.
+
+### - **Folder:** `3. Data Visualization`  
+  - Contains scripts for visualizing cricket data using SQL queries and Python libraries.  
+
+#### **File:**  
+- **`Data Visualization.ipynb`** – Executes 20 SQL queries and visualizes the results using **Matplotlib** and **Seaborn**.
+
+### **Folder:** `4. Power BI Dashboard`  
+  - Contains the Power BI dashboard for visualizing cricket match insights.  
+
+#### **File:**  
+- **`cricsheet.pbix`** – Power BI dashboard displaying key insights from various matches.
