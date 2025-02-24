@@ -18,7 +18,7 @@ Automates Cricsheet JSON scraping using Selenium, structures data in MySQL with 
 - **`t20s.py`** – Processes T20 JSON data and inserts it into the `t20s` table.  
 - **`tests.py`** – Processes Test match JSON data and inserts it into the `tests` table.
 
-### - **Folder:** `3. Data Visualization`  
+### **Folder:** `3. Data Visualization`  
   - Contains scripts for visualizing cricket data using SQL queries and Python libraries.  
 
 #### **File:**  
