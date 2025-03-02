@@ -22,7 +22,7 @@ Automates Cricsheet JSON scraping using Selenium, structures data in MySQL with 
   - Contains scripts for visualizing cricket data using SQL queries and Python libraries.  
 
 ### **File:**  
-- **`Data Visualization.ipynb`** – Executes 20 SQL queries and visualizes the results using **Matplotlib** and **Seaborn**.
+- **`Data Visualization.ipynb`** – Executes 10 SQL queries and visualizes the results using **Matplotlib** and **Seaborn**.
 
 ## **Folder:** `4. Power BI Dashboard`  
   - Contains the Power BI dashboard for visualizing cricket match insights.  
